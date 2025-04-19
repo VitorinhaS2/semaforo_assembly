@@ -41,5 +41,4 @@ Demonstrar o controle de sinais com tempo variável utilizando entradas digitais
  
 https://www.canva.com/design/DAGlHLD7tSE/v2PHIopBPKHNgU-jExurag/watch?utm_content=DAGlHLD7tSE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf33ec990d6
 
-> Imagem ou gif da simulação no PICgenios (opcional, mas recomendável)
 
